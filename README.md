@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/Ramchander0123/devops-learning/_apis/build/status%2Framchander2611.pipelines-java?branchName=main)](https://dev.azure.com/Ramchander0123/devops-learning/_build/latest?definitionId=24&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
